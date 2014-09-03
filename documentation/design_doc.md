@@ -68,3 +68,7 @@ NOTES:
 http://www.cns.nyu.edu/~fan/sun-docs/talks/practical-solaris10-security.pdf
 
 http://home.mit.bme.hu/~meszaros/edu/oprendszerek/segedlet/unix/5_solaris/Service%20Management%20Facility%20%28SMF%29%20in%20the%20Solaris%2010%20OS.pdf
+
+http://acid-state.seize.it/
+
+http://acid-state.seize.it/safecopy
