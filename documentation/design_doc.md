@@ -72,3 +72,5 @@ http://home.mit.bme.hu/~meszaros/edu/oprendszerek/segedlet/unix/5_solaris/Servic
 http://acid-state.seize.it/
 
 http://acid-state.seize.it/safecopy
+
+https://www.usenix.org/legacy/event/lisa05/tech/full_papers/adams/adams.pdf
