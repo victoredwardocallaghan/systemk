@@ -56,6 +56,7 @@ library
   hs-source-dirs:      src
 
   exposed-modules:     SystemK.Utils.Panic,
+                       SystemK.KCore.RunLevel,
                        SystemK.Version
 
   other-modules:       Paths_systemk,
